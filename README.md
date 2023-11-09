@@ -1,0 +1,14 @@
+# Yoox web scraped data 
+
+## About the website
+
+Yoox is a leading Italian online fashion retailer known for selling luxury designer brands at discounted prices across the world through its [website](https://www.yoox.com/). Founded in Zola Predosa, Bologna, Italy by Federico Marchetti on June 20, 2000, the companys business model is mainly based on the sales of end-of-season clothing and accessories from the most prestigious fashion houses and designer brands. This approach provides a sustainable way of promoting authentic fashion pieces while contributing to the reduction of fashion waste. In 2015, Yoox net-a-porter (YOOXY:IM), the dissolution of Yoox and particular global online luxury fashion retailer Net-a-Porter, was listed on the Italian Stock Market (Borsa Italiana). The broker symbol is [YOOX](https://www.bloomberg.com/quote/YOOX:IM) and, according to [Bloomberg](https://www.bloomberg.com/quote/YOOX:IM) had an impressive market cap of €3.3 billion during its IPO. The comprehensive history of Yoox can be found on its [Wikipedia page](https://en.wikipedia.org/wiki/Yoox).
+
+Some leading competitors of Yoox in the online luxury retail sector include [Farfetch](https://www.farfetch.com/), [The RealReal](https://www.therealreal.com/), and [Rebelle](https://www.rebelle.com/). [Farfetch](https://en.wikipedia.org/wiki/Farfetch_(company)), an international online platform for luxury fashion, works by providing a platform for luxury boutiques and brands to sell their products, while [The RealReal](https://www.bloomberg.com/quote/REAL:US) focuses on the resale of authenticated, consigned luxury goods. On the other hand, [Rebelle](https://en.wikipedia.org/wiki/Rebelle_(website)) is an online marketplace where users can buy and sell second-hand designer fashion and accessories. While similar to Yoox, they each apply a different model in the online retail of luxury and designer products.
+
+The use of web scraped data has significant implications for a company like Yoox. By analyzing data such as prices, discounts, and product descriptions, the firm can gain a deep understanding of market trends, customer preferences, competition, and pricing strategies. Specifically, with pricing data, Yoox can monitor and compare its prices to those of its competitors, and adjust accordingly to remain competitive. Data on discounts can help the company understand the types of products or brands that are commonly discounted, enabling them to plan their sales and promotions strategically. Furthermore, customer reviews and ratings can also provide insights into customer satisfaction and product performance, aiding in inventory management and product selection.
+
+
+## Link to **dataset**
+
+[Yoox dataset](https://www.databoutique.com/buy-data-list-subset/Yoox%20web%20scraped%20data/r/rec4ubQ2E8koGjN55)
